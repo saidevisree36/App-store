@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.tab-container-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.btn {
+  height: 50px;
+  width: 50px;
+  border-bottom: 2px solid #7b8794;
+  color: #7b8794;
+  font-size: 25px;
+  text-align: center;
+}
+.active-tab-btn {
+  height: 50px;
+  width: 50px;
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+  font-size: 25px;
+  text-align: center;
+}
